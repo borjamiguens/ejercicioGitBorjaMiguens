@@ -62,3 +62,11 @@ $ git add .
 $ git commit -m "introducido problema a solucionar"
 $ git push
 ```
+
+9. subir out corregir gitignore y compobar
+
+```bash
+$ git add .
+$ git commit -m "subir out corregir gitignore y compobar"
+$ git push
+```
