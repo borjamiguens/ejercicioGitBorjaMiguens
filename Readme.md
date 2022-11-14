@@ -54,3 +54,11 @@ $ git add .
 $ git commit -m "he añadido el readme"
 $ git push
 ```
+
+8. introducido problema a solucionar
+
+```bash
+$ git add .
+$ git commit -m "introducido problema a solucionar"
+$ git push
+```
