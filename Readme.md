@@ -46,3 +46,11 @@ $ git add .
 $ git commit -m "eliminando directorio out"
 $ git push
 ```
+
+7. he añadido el readme con los pasos realizados
+
+```bash
+$ git add .
+$ git commit -m "he añadido el readme"
+$ git push
+```
