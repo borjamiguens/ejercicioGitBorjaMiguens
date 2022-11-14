@@ -70,3 +70,27 @@ $ git add .
 $ git commit -m "subir out corregir gitignore y compobar"
 $ git push
 ```
+
+10. .gitignore corregido en paso anterior
+
+```bash
+$ git add .
+$ git commit -m "s.gitignore corregido en paso anterior"
+$ git push
+```
+
+11. haciendo inmutable el campo Empleado.nombre
+
+```bash
+$ git add .
+$ git commit -m "haciendo inmutable el campo Empleado.nombre"
+$ git push
+```
+
+12. funcionamiento correcto de gitignore
+
+```bash
+$ git add .
+$ git commit -m "haciendo inmutable el campo Empleado.nombre"
+$ git push
+```
