@@ -2,7 +2,7 @@
 
 1. Creación de un proyecto en IntelIJ
 
-![Creación de Proyecto](./img/Captura1.png)
+![Creación de Proyecto](./img/Captura1.PNG)
 
 2. Primer commit:
 
